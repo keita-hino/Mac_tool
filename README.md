@@ -1,2 +1,1 @@
-# Mac_tool
-MAC 環境構築用
+# MAC 環境構築用
